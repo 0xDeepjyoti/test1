@@ -1,3 +1,6 @@
 h
 sdfsf
+<<<<<<< HEAD
 deep
+=======
+>>>>>>> master
